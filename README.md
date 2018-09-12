@@ -25,7 +25,7 @@ That's all. Now we can work in the new branch and modify our code as we usually 
 
 Part of the work can be commited in the current branch. We can comment and commit at the same time, using the next expression:
 
-- `git commit -am "new commit in the branch"
+- `git commit -am "new commit in the branch`
 
 ## Merge branch in master
 
